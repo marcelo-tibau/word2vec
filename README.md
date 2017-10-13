@@ -1,6 +1,6 @@
 # word2vec
 
-Tools for computing distributed representtion of words
+Tools for computing distributed representation of words
 ------------------------------------------------------
 
 Implementation of the Continuous Bag-of-Words (CBOW) and the Skip-gram model (SG) provided by Google, as well as several demo scripts.
